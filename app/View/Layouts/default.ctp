@@ -43,7 +43,6 @@ section{
 }
 body {
   color: #404040;
-  color: #ffcc80;
   font-family: "Helvetica Neue",Helvetica,"Liberation Sans",Arial,sans-serif;
   font-size: 14px;
   line-height: 1.4;
@@ -180,6 +179,7 @@ p + h2 {
 }
 html {
   background: #f5f5f5;
+  background: #ffcc80; 
   height: 100%;
 }
 code {
